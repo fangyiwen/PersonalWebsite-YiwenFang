@@ -1,7 +1,7 @@
 # Personal Website of Dr. YiwenFang
 
 ## Link of website on Heroku
-<https://github.ccs.neu.edu/NEU-CS5610-SU20/PersonalWebsite-YiwenFang>
+<https://sleepy-cove-26470.herokuapp.com/>
 
 ## Brief description
 
@@ -24,11 +24,11 @@ The personal website is built with HTML, CSS, and JavaScript and jQuery. And the
 
 ## Screenshots
 
-Page 1: Home
+* Page 1: Home
 ![page1](/readme_images/page1.png)
 
-Page 2: CV / Resume
+* Page 2: CV / Resume
 ![page2](/readme_images/page2.png)
 
-Page 3: Selected Publications
+* Page 3: Selected Publications
 ![page3](/readme_images/page3.png)
