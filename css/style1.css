@@ -30,13 +30,22 @@
     background-color: #002147;
 }
 
-a {
+a:not(#link_click) {
     text-decoration: none;
     display: block;
 }
 
-a:link, a:visited {
+a:not(#link_click):link, a:not(#link_click):visited {
     color: #ffffff;
+}
+
+#link_click:link, #link_click:visited {
+    text-decoration: none;
+    color: #3479b2;
+}
+
+#link_click:hover {
+    text-decoration: underline;
 }
 
 .main {
