@@ -68,6 +68,14 @@ table, table td, table th {
     font-size: 90%;
 }
 
+.site_content {
+    min-height: calc(100vh - 35px);
+}
+
+.footer {
+    height: 19px;
+}
+
 /* For mobile devices: */
 .side_menu, .main {
     width: 100%;

@@ -1,4 +1,4 @@
-# Personal Website of Dr. YiwenFang
+# Personal Website of Dr. Yiwen Fang
 
 ## Link of website on Heroku
 <https://sleepy-cove-26470.herokuapp.com/>
@@ -21,6 +21,7 @@ The personal website is built with HTML, CSS, and JavaScript and jQuery. And the
 * Responsive design of images in the table.
 * The Selected Publications Page uses `<strong>`, `<i>`, `<u>`, and `<code>` to represent important, italic, underlined text, and computer code, respectively.
 * The footer has both left-aligned and right-aligned texts in the same line.
+* A sticky footer still hangs to the bottom of the browser if the page content is short.
 
 ## Screenshots
 
