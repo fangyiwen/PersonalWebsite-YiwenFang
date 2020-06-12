@@ -22,6 +22,7 @@ The personal website is built with HTML, CSS, and JavaScript and jQuery. And the
 * The Selected Publications Page uses `<strong>`, `<i>`, `<u>`, and `<code>` to represent important, italic, underlined text, and computer code, respectively.
 * The footer has both left-aligned and right-aligned texts in the same line.
 * A sticky footer still hangs to the bottom of the browser if the page content is short.
+* A fixed side menu on scroll.
 
 ## Screenshots
 

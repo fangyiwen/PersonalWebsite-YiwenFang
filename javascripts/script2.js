@@ -16,4 +16,16 @@ $(document).ready(function () {
   }, function () {
     $(this).css("background-color", "#002147");
   });
+
+  // Fixed side menu on scroll
+  window.onscroll = function () {
+    const side_menu = document.getElementById("side_menu");
+    (function sticky_side_menu() {
+      if (window.pageYOffset > side_menu.offsetTop) {
+        side_menu.classList.add("sticky");
+      } else {
+        side_menu.classList.remove("sticky");
+      }
+    })();
+  };
 });

@@ -2,6 +2,10 @@
     box-sizing: border-box;
 }
 
+body {
+    margin: 0;
+}
+
 .header {
     background-color: #002147;
     color: #ffffff;
@@ -12,6 +16,8 @@
     width: 25%;
     float: left;
     padding: 15px;
+    float: left;
+    background-color: white;
 }
 
 .side_menu ul {
@@ -41,7 +47,7 @@ a:link, a:visited {
 
 .main {
     width: 75%;
-    float: left;
+    float: right;
     padding: 15px;
 }
 
@@ -74,6 +80,12 @@ table, table td, table th {
 
 .footer {
     height: 19px;
+    padding: 15px;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
 }
 
 /* For mobile devices: */
