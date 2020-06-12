@@ -94,6 +94,7 @@ a:not(#link_click):link, a:not(#link_click):visited {
 /* For mobile devices: */
 .side_menu, .main {
     width: 100%;
+    overflow: auto;
 }
 
 @media only screen and (min-width: 768px) {
