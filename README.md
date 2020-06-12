@@ -14,7 +14,7 @@ The personal website is built with HTML, CSS, and JavaScript and jQuery. And the
 * There are three internal links with three separate pages, including the Home page. The styling of the internal links matches the styling of the rest of the site. You can see the carefully designed colors, i.e., Oxford Blue `#002147`, light blue `#3479b2`, grey `#c7c2bc`, black, and white. The navigational elements are present in all the web pages. The menu element has a significantly different color (Oxford Blue), indicating the current page you are browsing. Internal links open their content in the same browser tab.
 * The external link is GitHub which opens a new browser tab.
 * Two HTML tables, with CSS styling are shown in CV / Resume and Selected Publications.
-* There are three interactive / animated components written by jQuery. 1) The animated menu turns light blue when the mouse is over; 2) The CV table row turns light blue and the text turns white when the mouse is over; 3) The Publication table column turns light blue and the text turns white when the mouse is over.
+* There are four interactive / animated components written by jQuery / Vanilla JS. 1) The animated menu turns light blue when the mouse is over; 2) The CV table row turns light blue and the text turns white when the mouse is over; 3) The Publication table column turns light blue and the text turns white when the mouse is over; 4) Control the fixed side menu on scroll.
 * This website follows responsive web design (RWD). It can be successfully viewed on different sized displays including desktops and mobile devices.
 
 ## Additional features
